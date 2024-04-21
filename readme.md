@@ -7,3 +7,7 @@ Run `stl3mf -h` for commands and usage.
 ## Building
 
 `./build.sh` will produce 4 binaries in the `dist` directory.
+
+## License
+
+Licensed under the MIT License. See [LICENSE.txt](./LICENSE.txt).
